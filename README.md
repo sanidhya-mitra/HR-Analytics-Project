@@ -38,11 +38,13 @@ For easy access to the Kaggle dataset, click the icon below:
 
 ## Tools and Skills Used 🛠️:
 
-<table align = "center">
-    <tr>
-      <td align="center"><img alt="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
-    </tr>
-</table>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><img alt="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
+        </tr>
+    </table>
+</div>
 
 ## Challenges Faced 😵:
 
@@ -67,9 +69,9 @@ Heatmap of job satisfaction across roles, providing a detailed picture of employ
 Pie chart analysis of attrition rates within different organizational departments.
 
 ### Attrition Rate by Gender and Age Group
-Donut charts comparing attrition rates across gender for various age groups.
+Donut charts comparing attrition rates across genders for various age groups.
 
-## Insights and Key Findings 💡:
+## Quantitative Key Findings 🔍:
 
 | Metric                            | Value         | Description                                          |
 |-----------------------------------|---------------|------------------------------------------------------|
