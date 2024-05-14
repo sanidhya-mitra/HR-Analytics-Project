@@ -38,13 +38,14 @@ For easy access to the Kaggle dataset, click the icon below:
 
 ## Tools and Skills Used 🛠️:
 
-<div align="center">
+<div align = "center">
     <table>
         <tr>
-            <td align="center"><img alt="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
+            <td align = "center"><img alt="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
         </tr>
     </table>
 </div>
+
 
 ## Challenges Faced 😵:
 
