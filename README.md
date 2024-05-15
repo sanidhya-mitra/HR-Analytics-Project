@@ -32,7 +32,7 @@ For easy access to the Kaggle dataset, click the icon below:
 <p align="center">
     <a href="https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset">
         <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="60px" alt="Access Dataset"><br>
-        ACCESS
+        Access
     </a>
 </p>
 
@@ -41,7 +41,7 @@ For easy access to the Kaggle dataset, click the icon below:
 <div align = "center">
     <table>
         <tr>
-            <td align = "center"><img alt="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
+            <td align = "center"><img alt="Tableau" width="35x" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/><br>Tableau</td>
         </tr>
     </table>
 </div>
@@ -93,12 +93,20 @@ Based on the analysis, here are strategic recommendations to improve employee re
 
 3. **Departmental Engagement Strategies**: Implement department-specific engagement strategies to address attrition disparities across organizational units. For example, focusing on improving job satisfaction and work-life balance in departments with high attrition rates, such as sales and R&D, could result in significant retention gains.
 
-View the live Tableau dashboard here:
+View the live Tableau Dashboard here:
 
 <p align="center">
     <a href="https://public.tableau.com/app/profile/sanidhya.mitra4662/viz/HRDashboard_17156525556320/HRAnalytics">
-        <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="60px" alt="Access Dataset"><br>
-        ACCESS
+        <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="65px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
+
+Or download my London Bike Rides Tableau Workbook:
+<p align="center">
+    <a href="https://github.com/sanidhya-mitra/HR_Analytics_Project/blob/main/HR%20Dashboard.twbx">
+        <img src="https://analyticscanvas.com/wp-content/uploads/2016/02/twbx.png" width="60px" alt="Tableau Workbook"><br>
+        Download
     </a>
 </p>
 
