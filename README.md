@@ -31,7 +31,7 @@ For easy access to the Kaggle dataset, click the icon below:
 
 <p align="center">
     <a href="https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset">
-        <img src="https://www.svgrepo.com/show/508294/file.svg" width="60px" alt="Access Dataset"><br>
+        <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="60px" alt="Access Dataset"><br>
         ACCESS
     </a>
 </p>
